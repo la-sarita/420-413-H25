@@ -1,10 +1,10 @@
-# 420-413-H24
+# 420-413-H25
 
 # La page du cours
 Le cours développement d’applications pour entreprises
 
 
->Le lien vers le site du cours est [celui-ci](https://spiritual-fight-790.notion.site/La-page-du-cours-420-413MV-a9af3e30f11249c0a55c5901248a6a0b).Ce dépôt servira à partager le code vu en classe.
+>Ce dépôt servira à partager le code vu en classe.
 ***
 
 
@@ -25,8 +25,8 @@ Mon horaire et mes disponibilités  : [Lien vers mon horaire et mes disponibilit
 Les dates mentionnées sont à titre indicatif; Il pourrait y avoir des changements selon l'avancement. La pondération des examens peuvent légèrement varier. 
 |Type d’évaluation|Pondération|Date de l'examen| Durée de l'examen| 
 |:---:|:---:|:---:|:---:|
-|Examen #1 | 15 %| 14 février 2024 | 2h |
-|Examen #2 | 15 %| 28 février 2024  | 2h |
-|Examen #3 | 15 %| 27 mars 2024 | 2h |
-|Examen #4 | 15 %| 17 avril 2024 | 2h |
-|Épreuve finale | 40 %| 17 avril 2024 | sur plusieurs semaines  |
+|Examen #1 | 15 %| 14 février 2025 | 2h |
+|Examen #2 | 15 %| 07 mars 2025  | 2h |
+|Examen #3 | 15 %| 11 avril 2025 | 2h |
+|Examen #4 | 15 %| 09 mai 2025 | 2h |
+|Épreuve finale | 40 %| 16 mai 2025 | sur plusieurs semaines  |

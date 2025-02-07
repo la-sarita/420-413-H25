@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MV\\H25\\420-413\\Code\\Code_vu_en_classe\\420-413-H25\\CSharpBasics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3E9B04-2490-4C31-B018-5BC364DD4757}|CSharpBasics.csproj|D:\\MV\\H25\\420-413\\Code\\Code_vu_en_classe\\420-413-H25\\CSharpBasics\\variables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A3E9B04-2490-4C31-B018-5BC364DD4757}|CSharpBasics.csproj|solutionrelative:variables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3E9B04-2490-4C31-B018-5BC364DD4757}|CSharpBasics.csproj|D:\\MV\\H25\\420-413\\Code\\Code_vu_en_classe\\420-413-H25\\CSharpBasics\\instructionsconditonnelles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A3E9B04-2490-4C31-B018-5BC364DD4757}|CSharpBasics.csproj|solutionrelative:instructionsconditonnelles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3E9B04-2490-4C31-B018-5BC364DD4757}|CSharpBasics.csproj|D:\\MV\\H25\\420-413\\Code\\Code_vu_en_classe\\420-413-H25\\CSharpBasics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A3E9B04-2490-4C31-B018-5BC364DD4757}|CSharpBasics.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3E9B04-2490-4C31-B018-5BC364DD4757}|CSharpBasics.csproj|d:\\mv\\h25\\420-413\\code\\code_vu_en_classe\\420-413-h25\\csharpbasics\\instructionssaut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A3E9B04-2490-4C31-B018-5BC364DD4757}|CSharpBasics.csproj|solutionrelative:instructionssaut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3E9B04-2490-4C31-B018-5BC364DD4757}|CSharpBasics.csproj|D:\\MV\\H25\\420-413\\Code\\Code_vu_en_classe\\420-413-H25\\CSharpBasics\\instructionsiteratives.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A3E9B04-2490-4C31-B018-5BC364DD4757}|CSharpBasics.csproj|solutionrelative:instructionsiteratives.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3E9B04-2490-4C31-B018-5BC364DD4757}|CSharpBasics.csproj|D:\\MV\\H25\\420-413\\Code\\Code_vu_en_classe\\420-413-H25\\CSharpBasics\\classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A3E9B04-2490-4C31-B018-5BC364DD4757}|CSharpBasics.csproj|solutionrelative:classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3E9B04-2490-4C31-B018-5BC364DD4757}|CSharpBasics.csproj|D:\\MV\\H25\\420-413\\Code\\Code_vu_en_classe\\420-413-H25\\CSharpBasics\\operateurs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A3E9B04-2490-4C31-B018-5BC364DD4757}|CSharpBasics.csproj|solutionrelative:operateurs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 75,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Classes.cs",
+              "DocumentMoniker": "D:\\MV\\H25\\420-413\\Code\\Code_vu_en_classe\\420-413-H25\\CSharpBasics\\Classes.cs",
+              "RelativeDocumentMoniker": "Classes.cs",
+              "ToolTip": "D:\\MV\\H25\\420-413\\Code\\Code_vu_en_classe\\420-413-H25\\CSharpBasics\\Classes.cs",
+              "RelativeToolTip": "Classes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-30T20:38:24.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Operateurs.cs",
+              "DocumentMoniker": "D:\\MV\\H25\\420-413\\Code\\Code_vu_en_classe\\420-413-H25\\CSharpBasics\\Operateurs.cs",
+              "RelativeDocumentMoniker": "Operateurs.cs",
+              "ToolTip": "D:\\MV\\H25\\420-413\\Code\\Code_vu_en_classe\\420-413-H25\\CSharpBasics\\Operateurs.cs",
+              "RelativeToolTip": "Operateurs.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAIwAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-28T23:07:30.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InstructionsSaut.cs",
+              "DocumentMoniker": "D:\\MV\\H25\\420-413\\Code\\Code_vu_en_classe\\420-413-H25\\CSharpBasics\\InstructionsSaut.cs",
+              "RelativeDocumentMoniker": "InstructionsSaut.cs",
+              "ToolTip": "D:\\MV\\H25\\420-413\\Code\\Code_vu_en_classe\\420-413-H25\\CSharpBasics\\InstructionsSaut.cs",
+              "RelativeToolTip": "InstructionsSaut.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwDcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-28T21:59:00.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InstructionsIteratives.cs",
+              "DocumentMoniker": "D:\\MV\\H25\\420-413\\Code\\Code_vu_en_classe\\420-413-H25\\CSharpBasics\\InstructionsIteratives.cs",
+              "RelativeDocumentMoniker": "InstructionsIteratives.cs",
+              "ToolTip": "D:\\MV\\H25\\420-413\\Code\\Code_vu_en_classe\\420-413-H25\\CSharpBasics\\InstructionsIteratives.cs",
+              "RelativeToolTip": "InstructionsIteratives.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwCgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-28T21:33:48.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InstructionsConditonnelles.cs",
+              "DocumentMoniker": "D:\\MV\\H25\\420-413\\Code\\Code_vu_en_classe\\420-413-H25\\CSharpBasics\\InstructionsConditonnelles.cs",
+              "RelativeDocumentMoniker": "InstructionsConditonnelles.cs",
+              "ToolTip": "D:\\MV\\H25\\420-413\\Code\\Code_vu_en_classe\\420-413-H25\\CSharpBasics\\InstructionsConditonnelles.cs",
+              "RelativeToolTip": "InstructionsConditonnelles.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAuwIUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-28T21:33:31.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Variables.cs",
+              "DocumentMoniker": "D:\\MV\\H25\\420-413\\Code\\Code_vu_en_classe\\420-413-H25\\CSharpBasics\\Variables.cs",
+              "RelativeDocumentMoniker": "Variables.cs",
+              "ToolTip": "D:\\MV\\H25\\420-413\\Code\\Code_vu_en_classe\\420-413-H25\\CSharpBasics\\Variables.cs",
+              "RelativeToolTip": "Variables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-28T17:22:29.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MV\\H25\\420-413\\Code\\Code_vu_en_classe\\420-413-H25\\CSharpBasics\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\MV\\H25\\420-413\\Code\\Code_vu_en_classe\\420-413-H25\\CSharpBasics\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAywCEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-28T16:45:37.877Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
