@@ -1,0 +1,15 @@
+D:\MV\H25\420-413\Code\Code_vu_en_classe\420-413-H25\LinqDemo\LinqDemo\bin\Debug\net8.0\LinqDemo.exe
+D:\MV\H25\420-413\Code\Code_vu_en_classe\420-413-H25\LinqDemo\LinqDemo\bin\Debug\net8.0\LinqDemo.deps.json
+D:\MV\H25\420-413\Code\Code_vu_en_classe\420-413-H25\LinqDemo\LinqDemo\bin\Debug\net8.0\LinqDemo.runtimeconfig.json
+D:\MV\H25\420-413\Code\Code_vu_en_classe\420-413-H25\LinqDemo\LinqDemo\bin\Debug\net8.0\LinqDemo.dll
+D:\MV\H25\420-413\Code\Code_vu_en_classe\420-413-H25\LinqDemo\LinqDemo\bin\Debug\net8.0\LinqDemo.pdb
+D:\MV\H25\420-413\Code\Code_vu_en_classe\420-413-H25\LinqDemo\LinqDemo\obj\Debug\net8.0\LinqDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\MV\H25\420-413\Code\Code_vu_en_classe\420-413-H25\LinqDemo\LinqDemo\obj\Debug\net8.0\LinqDemo.AssemblyInfoInputs.cache
+D:\MV\H25\420-413\Code\Code_vu_en_classe\420-413-H25\LinqDemo\LinqDemo\obj\Debug\net8.0\LinqDemo.AssemblyInfo.cs
+D:\MV\H25\420-413\Code\Code_vu_en_classe\420-413-H25\LinqDemo\LinqDemo\obj\Debug\net8.0\LinqDemo.csproj.CoreCompileInputs.cache
+D:\MV\H25\420-413\Code\Code_vu_en_classe\420-413-H25\LinqDemo\LinqDemo\obj\Debug\net8.0\LinqDemo.sourcelink.json
+D:\MV\H25\420-413\Code\Code_vu_en_classe\420-413-H25\LinqDemo\LinqDemo\obj\Debug\net8.0\LinqDemo.dll
+D:\MV\H25\420-413\Code\Code_vu_en_classe\420-413-H25\LinqDemo\LinqDemo\obj\Debug\net8.0\refint\LinqDemo.dll
+D:\MV\H25\420-413\Code\Code_vu_en_classe\420-413-H25\LinqDemo\LinqDemo\obj\Debug\net8.0\LinqDemo.pdb
+D:\MV\H25\420-413\Code\Code_vu_en_classe\420-413-H25\LinqDemo\LinqDemo\obj\Debug\net8.0\LinqDemo.genruntimeconfig.cache
+D:\MV\H25\420-413\Code\Code_vu_en_classe\420-413-H25\LinqDemo\LinqDemo\obj\Debug\net8.0\ref\LinqDemo.dll

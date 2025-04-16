@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{436C2A73-C464-4110-A22D-C12602582125}|PremierProjet\\PremierProjet.csproj|solutionrelative:premierprojet\\dictionnaires.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C4D04986-2DD2-4966-9919-A451AC3B1313}|POO\\POO.csproj|d:\\mv\\h25\\420-413\\code\\code_vu_en_classe\\420-413-h25\\premierprojet\\poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D04986-2DD2-4966-9919-A451AC3B1313}|POO\\POO.csproj|solutionrelative:poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{436C2A73-C464-4110-A22D-C12602582125}|PremierProjet\\PremierProjet.csproj|d:\\mv\\h25\\420-413\\code\\code_vu_en_classe\\420-413-h25\\premierprojet\\premierprojet\\listes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{436C2A73-C464-4110-A22D-C12602582125}|PremierProjet\\PremierProjet.csproj|solutionrelative:premierprojet\\listes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -48,12 +52,21 @@
           "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MV\\H25\\420-413\\Code\\Code_vu_en_classe\\420-413-H25\\PremierProjet\\POO\\Program.cs",
+              "RelativeDocumentMoniker": "POO\\Program.cs",
+              "ToolTip": "D:\\MV\\H25\\420-413\\Code\\Code_vu_en_classe\\420-413-H25\\PremierProjet\\POO\\Program.cs",
+              "RelativeToolTip": "POO\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T14:42:29.645Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Enums.cs",
               "DocumentMoniker": "D:\\MV\\H25\\420-413\\Code\\Code_vu_en_classe\\420-413-H25\\PremierProjet\\PremierProjet\\Enums.cs",
               "RelativeDocumentMoniker": "PremierProjet\\Enums.cs",
@@ -65,7 +78,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Tableaux.cs",
               "DocumentMoniker": "D:\\MV\\H25\\420-413\\Code\\Code_vu_en_classe\\420-413-H25\\PremierProjet\\PremierProjet\\Tableaux.cs",
               "RelativeDocumentMoniker": "PremierProjet\\Tableaux.cs",
@@ -77,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Listes.cs",
               "DocumentMoniker": "D:\\MV\\H25\\420-413\\Code\\Code_vu_en_classe\\420-413-H25\\PremierProjet\\PremierProjet\\Listes.cs",
               "RelativeDocumentMoniker": "PremierProjet\\Listes.cs",
@@ -85,8 +98,7 @@
               "RelativeToolTip": "PremierProjet\\Listes.cs",
               "ViewState": "AgIAAJIAAAAAAAAAAAAswAYAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-08T15:36:58.976Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-08T15:36:58.976Z"
             },
             {
               "$type": "Document",
@@ -96,14 +108,14 @@
               "RelativeDocumentMoniker": "PremierProjet\\Dictionnaires.cs",
               "ToolTip": "D:\\MV\\H25\\420-413\\Code\\Code_vu_en_classe\\420-413-H25\\PremierProjet\\PremierProjet\\Dictionnaires.cs",
               "RelativeToolTip": "PremierProjet\\Dictionnaires.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAA6wBcAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-08T15:36:40.304Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Classes.cs",
               "DocumentMoniker": "D:\\MV\\H25\\420-413\\Code\\Code_vu_en_classe\\420-413-H25\\PremierProjet\\PremierProjet\\Classes.cs",
               "RelativeDocumentMoniker": "PremierProjet\\Classes.cs",
@@ -115,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "InstructionsConditonnelles.cs",
               "DocumentMoniker": "D:\\MV\\H25\\420-413\\Code\\Code_vu_en_classe\\420-413-H25\\PremierProjet\\PremierProjet\\InstructionsConditonnelles.cs",
               "RelativeDocumentMoniker": "PremierProjet\\InstructionsConditonnelles.cs",
@@ -127,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\MV\\H25\\420-413\\Code\\Code_vu_en_classe\\420-413-H25\\PremierProjet\\PremierProjet\\Program.cs",
               "RelativeDocumentMoniker": "PremierProjet\\Program.cs",
@@ -135,12 +147,11 @@
               "RelativeToolTip": "PremierProjet\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T04:13:28.104Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-07T04:13:28.104Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\boumsar0\\OneDrive - C\u00E9gep Marie-Victorin\\Documents\\DEC Tech info\\H24\\420-413-Dev_app_entreprises\\Projets et exemples de code\\CSharpBasics\\Program.cs",
               "ToolTip": "C:\\Users\\boumsar0\\OneDrive - C\u00E9gep Marie-Victorin\\Documents\\DEC Tech info\\H24\\420-413-Dev_app_entreprises\\Projets et exemples de code\\CSharpBasics\\Program.cs",
@@ -150,7 +161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ChainesDeCaracteres.cs",
               "DocumentMoniker": "D:\\MV\\H25\\420-413\\Code\\Code_vu_en_classe\\420-413-H25\\PremierProjet\\PremierProjet\\ChainesDeCaracteres.cs",
               "RelativeDocumentMoniker": "PremierProjet\\ChainesDeCaracteres.cs",
@@ -159,6 +170,10 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-31T15:59:08.147Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

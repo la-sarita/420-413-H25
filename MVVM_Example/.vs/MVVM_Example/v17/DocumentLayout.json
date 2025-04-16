@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MV\\H25\\420-413\\Code\\Code_vu_en_classe\\420-413-H25\\MVVM_Example\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7213AD-632D-46C4-922C-A24DC44CD2E3}|CustomersApp.UI\\CustomersApp.UI.csproj|d:\\mv\\h25\\420-413\\code\\code_vu_en_classe\\420-413-h25\\mvvm_example\\customersapp.ui\\viewmodel\\customersviewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7213AD-632D-46C4-922C-A24DC44CD2E3}|CustomersApp.UI\\CustomersApp.UI.csproj|solutionrelative:customersapp.ui\\viewmodel\\customersviewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7213AD-632D-46C4-922C-A24DC44CD2E3}|CustomersApp.UI\\CustomersApp.UI.csproj|d:\\mv\\h25\\420-413\\code\\code_vu_en_classe\\420-413-h25\\mvvm_example\\customersapp.ui\\viewmodel\\customersviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7213AD-632D-46C4-922C-A24DC44CD2E3}|CustomersApp.UI\\CustomersApp.UI.csproj|solutionrelative:customersapp.ui\\viewmodel\\customersviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7213AD-632D-46C4-922C-A24DC44CD2E3}|CustomersApp.UI\\CustomersApp.UI.csproj|d:\\mv\\h25\\420-413\\code\\code_vu_en_classe\\420-413-h25\\mvvm_example\\customersapp.ui\\view\\customersview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7213AD-632D-46C4-922C-A24DC44CD2E3}|CustomersApp.UI\\CustomersApp.UI.csproj|solutionrelative:customersapp.ui\\view\\customersview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7213AD-632D-46C4-922C-A24DC44CD2E3}|CustomersApp.UI\\CustomersApp.UI.csproj|d:\\mv\\h25\\420-413\\code\\code_vu_en_classe\\420-413-h25\\mvvm_example\\customersapp.ui\\view\\customersview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4A7213AD-632D-46C4-922C-A24DC44CD2E3}|CustomersApp.UI\\CustomersApp.UI.csproj|solutionrelative:customersapp.ui\\view\\customersview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7213AD-632D-46C4-922C-A24DC44CD2E3}|CustomersApp.UI\\CustomersApp.UI.csproj|d:\\mv\\h25\\420-413\\code\\code_vu_en_classe\\420-413-h25\\mvvm_example\\customersapp.ui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4A7213AD-632D-46C4-922C-A24DC44CD2E3}|CustomersApp.UI\\CustomersApp.UI.csproj|solutionrelative:customersapp.ui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7213AD-632D-46C4-922C-A24DC44CD2E3}|CustomersApp.UI\\CustomersApp.UI.csproj|d:\\mv\\h25\\420-413\\code\\code_vu_en_classe\\420-413-h25\\mvvm_example\\customersapp.ui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4A7213AD-632D-46C4-922C-A24DC44CD2E3}|CustomersApp.UI\\CustomersApp.UI.csproj|solutionrelative:customersapp.ui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7213AD-632D-46C4-922C-A24DC44CD2E3}|CustomersApp.UI\\CustomersApp.UI.csproj|d:\\mv\\h25\\420-413\\code\\code_vu_en_classe\\420-413-h25\\mvvm_example\\customersapp.ui\\customersapp.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4A7213AD-632D-46C4-922C-A24DC44CD2E3}|CustomersApp.UI\\CustomersApp.UI.csproj|solutionrelative:customersapp.ui\\customersapp.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7213AD-632D-46C4-922C-A24DC44CD2E3}|CustomersApp.UI\\CustomersApp.UI.csproj|d:\\mv\\h25\\420-413\\code\\code_vu_en_classe\\420-413-h25\\mvvm_example\\customersapp.ui\\data\\customerdataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7213AD-632D-46C4-922C-A24DC44CD2E3}|CustomersApp.UI\\CustomersApp.UI.csproj|solutionrelative:customersapp.ui\\data\\customerdataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7213AD-632D-46C4-922C-A24DC44CD2E3}|CustomersApp.UI\\CustomersApp.UI.csproj|d:\\mv\\h25\\420-413\\code\\code_vu_en_classe\\420-413-h25\\mvvm_example\\customersapp.ui\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7213AD-632D-46C4-922C-A24DC44CD2E3}|CustomersApp.UI\\CustomersApp.UI.csproj|solutionrelative:customersapp.ui\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7213AD-632D-46C4-922C-A24DC44CD2E3}|CustomersApp.UI\\CustomersApp.UI.csproj|d:\\mv\\h25\\420-413\\code\\code_vu_en_classe\\420-413-h25\\mvvm_example\\customersapp.ui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7213AD-632D-46C4-922C-A24DC44CD2E3}|CustomersApp.UI\\CustomersApp.UI.csproj|solutionrelative:customersapp.ui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomersView.xaml.cs",
+              "DocumentMoniker": "D:\\MV\\H25\\420-413\\Code\\Code_vu_en_classe\\420-413-H25\\MVVM_Example\\CustomersApp.UI\\View\\CustomersView.xaml.cs",
+              "RelativeDocumentMoniker": "CustomersApp.UI\\View\\CustomersView.xaml.cs",
+              "ToolTip": "D:\\MV\\H25\\420-413\\Code\\Code_vu_en_classe\\420-413-H25\\MVVM_Example\\CustomersApp.UI\\View\\CustomersView.xaml.cs",
+              "RelativeToolTip": "CustomersApp.UI\\View\\CustomersView.xaml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADgvx0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T14:59:39.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomersViewModel.cs",
+              "DocumentMoniker": "D:\\MV\\H25\\420-413\\Code\\Code_vu_en_classe\\420-413-H25\\MVVM_Example\\CustomersApp.UI\\ViewModel\\CustomersViewModel.cs",
+              "RelativeDocumentMoniker": "CustomersApp.UI\\ViewModel\\CustomersViewModel.cs",
+              "ToolTip": "D:\\MV\\H25\\420-413\\Code\\Code_vu_en_classe\\420-413-H25\\MVVM_Example\\CustomersApp.UI\\ViewModel\\CustomersViewModel.cs*",
+              "RelativeToolTip": "CustomersApp.UI\\ViewModel\\CustomersViewModel.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T14:37:36.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomersViewModelBase.cs",
+              "DocumentMoniker": "D:\\MV\\H25\\420-413\\Code\\Code_vu_en_classe\\420-413-H25\\MVVM_Example\\CustomersApp.UI\\ViewModel\\CustomersViewModelBase.cs",
+              "RelativeDocumentMoniker": "CustomersApp.UI\\ViewModel\\CustomersViewModelBase.cs",
+              "ToolTip": "D:\\MV\\H25\\420-413\\Code\\Code_vu_en_classe\\420-413-H25\\MVVM_Example\\CustomersApp.UI\\ViewModel\\CustomersViewModelBase.cs",
+              "RelativeToolTip": "CustomersApp.UI\\ViewModel\\CustomersViewModelBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T15:49:51.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomersView.xaml",
+              "DocumentMoniker": "D:\\MV\\H25\\420-413\\Code\\Code_vu_en_classe\\420-413-H25\\MVVM_Example\\CustomersApp.UI\\View\\CustomersView.xaml",
+              "RelativeDocumentMoniker": "CustomersApp.UI\\View\\CustomersView.xaml",
+              "ToolTip": "D:\\MV\\H25\\420-413\\Code\\Code_vu_en_classe\\420-413-H25\\MVVM_Example\\CustomersApp.UI\\View\\CustomersView.xaml",
+              "RelativeToolTip": "CustomersApp.UI\\View\\CustomersView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-28T14:58:40.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\MV\\H25\\420-413\\Code\\Code_vu_en_classe\\420-413-H25\\MVVM_Example\\CustomersApp.UI\\App.xaml",
+              "RelativeDocumentMoniker": "CustomersApp.UI\\App.xaml",
+              "ToolTip": "D:\\MV\\H25\\420-413\\Code\\Code_vu_en_classe\\420-413-H25\\MVVM_Example\\CustomersApp.UI\\App.xaml",
+              "RelativeToolTip": "CustomersApp.UI\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-28T14:58:49.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomersApp.UI",
+              "DocumentMoniker": "D:\\MV\\H25\\420-413\\Code\\Code_vu_en_classe\\420-413-H25\\MVVM_Example\\CustomersApp.UI\\CustomersApp.UI.csproj",
+              "RelativeDocumentMoniker": "CustomersApp.UI\\CustomersApp.UI.csproj",
+              "ToolTip": "D:\\MV\\H25\\420-413\\Code\\Code_vu_en_classe\\420-413-H25\\MVVM_Example\\CustomersApp.UI\\CustomersApp.UI.csproj",
+              "RelativeToolTip": "CustomersApp.UI\\CustomersApp.UI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-28T14:25:22.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerDataProvider.cs",
+              "DocumentMoniker": "D:\\MV\\H25\\420-413\\Code\\Code_vu_en_classe\\420-413-H25\\MVVM_Example\\CustomersApp.UI\\Data\\CustomerDataProvider.cs",
+              "RelativeDocumentMoniker": "CustomersApp.UI\\Data\\CustomerDataProvider.cs",
+              "ToolTip": "D:\\MV\\H25\\420-413\\Code\\Code_vu_en_classe\\420-413-H25\\MVVM_Example\\CustomersApp.UI\\Data\\CustomerDataProvider.cs",
+              "RelativeToolTip": "CustomersApp.UI\\Data\\CustomerDataProvider.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T14:25:25.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\MV\\H25\\420-413\\Code\\Code_vu_en_classe\\420-413-H25\\MVVM_Example\\CustomersApp.UI\\Model\\Customer.cs",
+              "RelativeDocumentMoniker": "CustomersApp.UI\\Model\\Customer.cs",
+              "ToolTip": "D:\\MV\\H25\\420-413\\Code\\Code_vu_en_classe\\420-413-H25\\MVVM_Example\\CustomersApp.UI\\Model\\Customer.cs",
+              "RelativeToolTip": "CustomersApp.UI\\Model\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T14:24:18.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\MV\\H25\\420-413\\Code\\Code_vu_en_classe\\420-413-H25\\MVVM_Example\\CustomersApp.UI\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "CustomersApp.UI\\MainWindow.xaml",
+              "ToolTip": "D:\\MV\\H25\\420-413\\Code\\Code_vu_en_classe\\420-413-H25\\MVVM_Example\\CustomersApp.UI\\MainWindow.xaml",
+              "RelativeToolTip": "CustomersApp.UI\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-28T14:22:39.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\MV\\H25\\420-413\\Code\\Code_vu_en_classe\\420-413-H25\\MVVM_Example\\CustomersApp.UI\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CustomersApp.UI\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\MV\\H25\\420-413\\Code\\Code_vu_en_classe\\420-413-H25\\MVVM_Example\\CustomersApp.UI\\MainWindow.xaml.cs",
+              "RelativeToolTip": "CustomersApp.UI\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T14:22:39.138Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

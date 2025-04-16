@@ -1,0 +1,14 @@
+D:\MV\H25\420-413\Evals\Examens\Examen_3\Examen3\Examen3.Theorique\obj\Debug\net8.0\Examen3.Theorique.GeneratedMSBuildEditorConfig.editorconfig
+D:\MV\H25\420-413\Evals\Examens\Examen_3\Examen3\Examen3.Theorique\obj\Debug\net8.0\Examen3.Theorique.AssemblyInfoInputs.cache
+D:\MV\H25\420-413\Evals\Examens\Examen_3\Examen3\Examen3.Theorique\obj\Debug\net8.0\Examen3.Theorique.AssemblyInfo.cs
+D:\MV\H25\420-413\Evals\Examens\Examen_3\Examen3\Examen3.Theorique\obj\Debug\net8.0\Examen3.Theorique.csproj.CoreCompileInputs.cache
+D:\MV\H25\420-413\Evals\Examens\Examen_3\Examen3\Examen3.Theorique\bin\Debug\net8.0\Examen3.Theorique.exe
+D:\MV\H25\420-413\Evals\Examens\Examen_3\Examen3\Examen3.Theorique\bin\Debug\net8.0\Examen3.Theorique.deps.json
+D:\MV\H25\420-413\Evals\Examens\Examen_3\Examen3\Examen3.Theorique\bin\Debug\net8.0\Examen3.Theorique.runtimeconfig.json
+D:\MV\H25\420-413\Evals\Examens\Examen_3\Examen3\Examen3.Theorique\bin\Debug\net8.0\Examen3.Theorique.dll
+D:\MV\H25\420-413\Evals\Examens\Examen_3\Examen3\Examen3.Theorique\bin\Debug\net8.0\Examen3.Theorique.pdb
+D:\MV\H25\420-413\Evals\Examens\Examen_3\Examen3\Examen3.Theorique\obj\Debug\net8.0\Examen3.Theorique.dll
+D:\MV\H25\420-413\Evals\Examens\Examen_3\Examen3\Examen3.Theorique\obj\Debug\net8.0\refint\Examen3.Theorique.dll
+D:\MV\H25\420-413\Evals\Examens\Examen_3\Examen3\Examen3.Theorique\obj\Debug\net8.0\Examen3.Theorique.pdb
+D:\MV\H25\420-413\Evals\Examens\Examen_3\Examen3\Examen3.Theorique\obj\Debug\net8.0\Examen3.Theorique.genruntimeconfig.cache
+D:\MV\H25\420-413\Evals\Examens\Examen_3\Examen3\Examen3.Theorique\obj\Debug\net8.0\ref\Examen3.Theorique.dll
